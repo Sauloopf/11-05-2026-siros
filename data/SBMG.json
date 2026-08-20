@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20T15:31:42.784010+00:00",
+  "updated_at": "2026-08-20T21:26:09.617319+00:00",
   "data_referencia": "2026-08-20",
   "airport_icao": "SBMG",
   "airport_name": "Maringa",
   "airport_info": {
-    "sg_aerodromo_icao": "SBMG",
-    "sg_aerodromo_iata": "MGF",
-    "descricao": "SÍLVIO NAME JÚNIOR - MARINGÁ - PR - BRASIL"
+    "sg_aerodromo_icao": "SBGL",
+    "sg_aerodromo_iata": "GIG",
+    "descricao": "AEROPORTO INTERNACIONAL DO RIO DE JANEIRO/GALEÃO – ANTONIO CARLOS JOBIM - RIO DE JANEIRO - RJ - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
